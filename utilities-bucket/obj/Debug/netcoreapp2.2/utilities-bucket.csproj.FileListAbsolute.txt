@@ -1,0 +1,9 @@
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-bucket\bin\Debug\netcoreapp2.2\utilities-bucket.deps.json
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-bucket\bin\Debug\netcoreapp2.2\utilities-bucket.dll
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-bucket\bin\Debug\netcoreapp2.2\utilities-bucket.pdb
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-bucket\obj\Debug\netcoreapp2.2\utilities-bucket.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-bucket\obj\Debug\netcoreapp2.2\utilities-bucket.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-bucket\obj\Debug\netcoreapp2.2\utilities-bucket.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-bucket\obj\Debug\netcoreapp2.2\utilities-bucket.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-bucket\obj\Debug\netcoreapp2.2\utilities-bucket.dll
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-bucket\obj\Debug\netcoreapp2.2\utilities-bucket.pdb

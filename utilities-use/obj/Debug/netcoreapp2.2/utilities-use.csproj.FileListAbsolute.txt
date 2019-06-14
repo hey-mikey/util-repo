@@ -1,0 +1,14 @@
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-use\bin\Debug\netcoreapp2.2\utilities-use.deps.json
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-use\bin\Debug\netcoreapp2.2\utilities-use.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-use\bin\Debug\netcoreapp2.2\utilities-use.runtimeconfig.dev.json
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-use\bin\Debug\netcoreapp2.2\utilities-use.dll
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-use\bin\Debug\netcoreapp2.2\utilities-use.pdb
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-use\obj\Debug\netcoreapp2.2\utilities-use.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-use\obj\Debug\netcoreapp2.2\utilities-use.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-use\obj\Debug\netcoreapp2.2\utilities-use.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-use\obj\Debug\netcoreapp2.2\utilities-use.dll
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-use\obj\Debug\netcoreapp2.2\utilities-use.pdb
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-use\bin\Debug\netcoreapp2.2\utilities-bucket.dll
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-use\bin\Debug\netcoreapp2.2\utilities-bucket.pdb
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-use\obj\Debug\netcoreapp2.2\utilities-use.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\utilities-bucket\utilities-use\obj\Debug\netcoreapp2.2\utilities-use.csproj.CopyComplete
