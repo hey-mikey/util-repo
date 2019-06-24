@@ -702,40 +702,38 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mike\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\marmes\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mike\\Documents\\GitHub\\utilities-bucket\\utilities-use\\utilities-use.csproj",
+      "projectUniqueName": "C:\\Users\\marmes\\Documents\\GitHub\\util-repo\\utilities-use\\utilities-use.csproj",
       "projectName": "utilities-use",
-      "projectPath": "C:\\Users\\Mike\\Documents\\GitHub\\utilities-bucket\\utilities-use\\utilities-use.csproj",
-      "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mike\\Documents\\GitHub\\utilities-bucket\\utilities-use\\obj\\",
+      "projectPath": "C:\\Users\\marmes\\Documents\\GitHub\\util-repo\\utilities-use\\utilities-use.csproj",
+      "packagesPath": "C:\\Users\\marmes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marmes\\Documents\\GitHub\\util-repo\\utilities-use\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mike\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\marmes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://ggbusdevelopers.amer.ajgco.com/AJGNugetfeed/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Mike\\Documents\\GitHub\\utilities-bucket\\utilities-bucket\\utilities-bucket.csproj": {
-              "projectPath": "C:\\Users\\Mike\\Documents\\GitHub\\utilities-bucket\\utilities-bucket\\utilities-bucket.csproj"
+            "C:\\Users\\marmes\\Documents\\GitHub\\util-repo\\utilities-bucket\\utilities-bucket.csproj": {
+              "projectPath": "C:\\Users\\marmes\\Documents\\GitHub\\util-repo\\utilities-bucket\\utilities-bucket.csproj"
             }
           }
         }
