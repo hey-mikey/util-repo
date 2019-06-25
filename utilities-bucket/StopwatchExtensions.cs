@@ -46,5 +46,15 @@ namespace utilities_bucket
         {
             return elapsed => Console.WriteLine($"'{memberName}' executed in {elapsed}");
         }
+        
+           /// <summary>
+        /// Usage: Stopwatch.StartNew().Measure(DoSomething, WriteElapsedToFile(nameof(DoSomething)));
+        /// </summary>
+        /// <param name="memberName"></param>
+        /// <returns></returns>
+        public static Action<TimeSpan> WriteElapsedToFile(string memberName, string fullFilePath)
+        {
+          return elapsed => System.IO.File.AppendAllLines(fullFilePath, new List<string> { $"'{memberName}' executed in {elapsed}" });
+        }
     }
 }
